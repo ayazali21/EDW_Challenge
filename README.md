@@ -8,8 +8,8 @@ Tools & Technology Used Here
  1. Clone this repository
  2. Build the Entire Solution
  3. Make Component Loader as StartUp Project
- 4. In Component Loader Project,Open appsetting.json file then change Assembly Directory Path as per your location
- 5. All Component dll should be added to AssemblyDirectryPath.
+ 4. In Component Loader Project,Open appsetting.json file then change Assembly Directory Path as per your computer location
+ 5. Manually add FirstAssembly,SecondAssembly.dll to folder name called "Loader" inside ComponentLoader project.
  6. For passing Console command line argument , you can got to properties -> launch setting and add below 
        "commandLineArgs": "-excludeAssembly=^[Second] -excludeClass=^[Second] -instances=2"
  7. Finally Run the ComponentLoader Project.
