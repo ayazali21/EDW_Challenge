@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EDW_Challenge/1.0.0": {
+        "runtime": {
+          "EDW_Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EDW_Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

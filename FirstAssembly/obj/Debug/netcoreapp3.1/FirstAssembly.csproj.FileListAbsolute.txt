@@ -12,3 +12,14 @@ C:\Users\ayaza\source\repos\EDW_Challenge\FirstComponent\bin\Debug\netcoreapp3.1
 C:\Users\ayaza\source\repos\EDW_Challenge\FirstComponent\bin\Debug\netcoreapp3.1\FirstAssembly.dll
 C:\Users\ayaza\source\repos\EDW_Challenge\FirstComponent\bin\Debug\netcoreapp3.1\FirstAssembly.pdb
 C:\Users\ayaza\source\repos\EDW_Challenge\FirstComponent\bin\Debug\netcoreapp3.1\EDW_Challenge.pdb
+C:\Users\ayaza\source\repos\EDW_Challenge\FirstAssembly\bin\Debug\netcoreapp3.1\FirstAssembly.deps.json
+C:\Users\ayaza\source\repos\EDW_Challenge\FirstAssembly\bin\Debug\netcoreapp3.1\FirstAssembly.dll
+C:\Users\ayaza\source\repos\EDW_Challenge\FirstAssembly\bin\Debug\netcoreapp3.1\FirstAssembly.pdb
+C:\Users\ayaza\source\repos\EDW_Challenge\FirstAssembly\bin\Debug\netcoreapp3.1\EDW_Challenge.dll
+C:\Users\ayaza\source\repos\EDW_Challenge\FirstAssembly\bin\Debug\netcoreapp3.1\EDW_Challenge.pdb
+C:\Users\ayaza\source\repos\EDW_Challenge\FirstAssembly\obj\Debug\netcoreapp3.1\FirstAssembly.csprojAssemblyReference.cache
+C:\Users\ayaza\source\repos\EDW_Challenge\FirstAssembly\obj\Debug\netcoreapp3.1\FirstAssembly.AssemblyInfoInputs.cache
+C:\Users\ayaza\source\repos\EDW_Challenge\FirstAssembly\obj\Debug\netcoreapp3.1\FirstAssembly.AssemblyInfo.cs
+C:\Users\ayaza\source\repos\EDW_Challenge\FirstAssembly\obj\Debug\netcoreapp3.1\FirstAssembly.csproj.CopyComplete
+C:\Users\ayaza\source\repos\EDW_Challenge\FirstAssembly\obj\Debug\netcoreapp3.1\FirstAssembly.dll
+C:\Users\ayaza\source\repos\EDW_Challenge\FirstAssembly\obj\Debug\netcoreapp3.1\FirstAssembly.pdb

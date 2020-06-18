@@ -1,0 +1,11 @@
+C:\Users\ayaza\source\repos\EDW_Challenge\SecondAssembly\bin\Debug\netcoreapp3.1\SecondAssembly.deps.json
+C:\Users\ayaza\source\repos\EDW_Challenge\SecondAssembly\bin\Debug\netcoreapp3.1\SecondAssembly.dll
+C:\Users\ayaza\source\repos\EDW_Challenge\SecondAssembly\bin\Debug\netcoreapp3.1\SecondAssembly.pdb
+C:\Users\ayaza\source\repos\EDW_Challenge\SecondAssembly\bin\Debug\netcoreapp3.1\EDW_Challenge.dll
+C:\Users\ayaza\source\repos\EDW_Challenge\SecondAssembly\bin\Debug\netcoreapp3.1\EDW_Challenge.pdb
+C:\Users\ayaza\source\repos\EDW_Challenge\SecondAssembly\obj\Debug\netcoreapp3.1\SecondAssembly.csprojAssemblyReference.cache
+C:\Users\ayaza\source\repos\EDW_Challenge\SecondAssembly\obj\Debug\netcoreapp3.1\SecondAssembly.AssemblyInfoInputs.cache
+C:\Users\ayaza\source\repos\EDW_Challenge\SecondAssembly\obj\Debug\netcoreapp3.1\SecondAssembly.AssemblyInfo.cs
+C:\Users\ayaza\source\repos\EDW_Challenge\SecondAssembly\obj\Debug\netcoreapp3.1\SecondAssembly.csproj.CopyComplete
+C:\Users\ayaza\source\repos\EDW_Challenge\SecondAssembly\obj\Debug\netcoreapp3.1\SecondAssembly.dll
+C:\Users\ayaza\source\repos\EDW_Challenge\SecondAssembly\obj\Debug\netcoreapp3.1\SecondAssembly.pdb
