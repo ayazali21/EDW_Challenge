@@ -1,0 +1,6 @@
+C:\ComponentLoader\Loader\netcoreapp3.1\EDW_Challenge.deps.json
+C:\ComponentLoader\Loader\netcoreapp3.1\EDW_Challenge.dll
+C:\ComponentLoader\Loader\netcoreapp3.1\EDW_Challenge.pdb
+C:\Users\ayaza\source\repos\EDW_Challenge\ComponentLoader\Loader\netcoreapp3.1\EDW_Challenge.deps.json
+C:\Users\ayaza\source\repos\EDW_Challenge\ComponentLoader\Loader\netcoreapp3.1\EDW_Challenge.dll
+C:\Users\ayaza\source\repos\EDW_Challenge\ComponentLoader\Loader\netcoreapp3.1\EDW_Challenge.pdb

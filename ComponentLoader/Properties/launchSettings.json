@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ComponentLoader": {
+      "commandName": "Project",
+      "commandLineArgs": "-excludeAssembly=^[Second] -excludeClass=^[Second] -instances=2"
+      //"commandLineArgs": "-excludeAssembly=^[Second]  -instances=3"
+    }
+  }
+}
